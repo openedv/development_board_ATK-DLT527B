@@ -1,0 +1,4 @@
+
+Please refer to the online documents: 
+Online Documentation for Development Board -> Hardware Design Reference：
+https://alientek.yuque.com/iad599/itogty?# 《ATK-DLT527B开发板文档资料》
